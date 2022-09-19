@@ -3,7 +3,7 @@
 
 <br />
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro-Boost/main/readme-images/Download%20do%20Software.png" width = "200px"/ >
+  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro-Boost/main/readme-images/Download%20do%20Software%20sep.png" width = "200px"/ >
 </p>
 <br />
 
