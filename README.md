@@ -3,9 +3,11 @@
 
 <br />
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro-Boost/main/readme-images/Download%20do%20Software%20sep.png" width = "250px" href="https://www.qries.com/" />
+  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro-Boost/main/readme-images/Icon%20google-drive.png" width = "100px"/>
+  <br />
 </p>
-<br />
+
+[Donwload .Exe](https://drive.google.com/file/d/19RcQe1nfwwCgkQ6w3arKjviuRzErCoZW/view?usp=sharing)
 
 ## Comparativo - Imagem Original e Imagem Editada 🖼️
 
