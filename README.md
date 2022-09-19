@@ -17,7 +17,7 @@
 
 ##
 
-### <p align="center"> Interface com a Imagem Alterada </p>
+### <p align="center"> Interface com a Imagem Editada </p>
 
 
 
