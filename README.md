@@ -3,7 +3,7 @@
 
 <br />
 <p align="center">
-  [<img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro-Boost/main/readme-images/Download%20do%20Software%20sep.png" width = "200px"/ >] (https://drive.google.com/file/d/19RcQe1nfwwCgkQ6w3arKjviuRzErCoZW/view?usp=sharing)
+  ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 </p>
 <br />
 
