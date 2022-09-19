@@ -3,22 +3,37 @@
 
 ## Comparativo - Imagem Original e Imagem Editada 🖼️
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro-Boost/main/readme-images/Comparando%20Imagens%20-%20Laika.png" />
+</p>
+
 ##
 
 ## Interface 🖥️<br>
 
 ### <p align="center"> Interface Inicial</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro-Boost/main/readme-images/Interface%20Inicial.PNG" />
+</p>
+
 
 ##
 
 ### <p align="center"> Interface com a Imagem Selecionada </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro-Boost/main/readme-images/Interface%20com%20a%20Imagem%20Selecionada.PNG" />
+</p>
 
 
 ##
 
 ### <p align="center"> Interface com a Imagem Editada </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro-Boost/main/readme-images/Interface%20com%20a%20Imagem%20Editada.PNG" />
+</p>
 
 
 
