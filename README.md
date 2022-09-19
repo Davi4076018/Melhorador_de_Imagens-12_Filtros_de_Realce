@@ -1,7 +1,7 @@
 # Melhorador de Imagens - Filtro-Boost 🚀 
 <p align="justify"> O software usa filtragem espacial para realçar as imagens. O uso da convolução nos valores dos pixels da imagem pelo Kernel Laplaciano Boost, leva ao melhoramento da imagem pela intensidade do cálculo. A interface permite escolher o valor do filtro e observar em tempo real o realce da imagem, para assim exportar nos formatos JPG e PNG o resultado desejado. </p>
 
-## Comparativo Imagem Original e Imagem Editada 🖼️
+## Comparativo - Imagem Original e Imagem Editada 🖼️
 
 ##
 
