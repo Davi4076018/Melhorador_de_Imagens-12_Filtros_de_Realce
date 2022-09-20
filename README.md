@@ -3,7 +3,7 @@
 
 <br />
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro-Boost/main/readme-images/Icon%20google-drive.png" width = "100px"/>
+  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro-Boost/main/readme-images/Icon%20download.png" width = "100px"/>
   <br />
   <a href="https://github.com/Davi4076018/Melhorador_de_Imagens-Filtro-Boost/raw/main/dist/Melhorador%20de%20Imagens%20-%20Filtro%20Boost.rar">Donwload .Exe</a>
   <br />
