@@ -3,7 +3,7 @@
 
 <br />
 <p align="center">
-  <img src="" width = "100px"/>
+  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro-Boost/main/readme-images/Icon%20download.png" width = "100px"/>
   <br />
   <a href="https://github.com/Davi4076018/Melhorador_de_Imagens-Filtro-Boost/raw/main/dist/Melhorador%20de%20Imagens%20-%20Filtro%20Boost.rar">Donwload .Exe</a>
   <br />
@@ -44,7 +44,13 @@
   <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro-Boost/main/readme-images/Interface%20com%20a%20Imagem%20Editada.PNG" />
 </p>
 
+## Módulos e Packages Utilizados 💡
 
+- 🔗 [Tkinter - Python Interface](https://docs.python.org/3/library/tkinter.html)
+- 🔗 [Pillow - Python Imaging Library](https://pillow.readthedocs.io/en/stable/)
+- 🔗 [NumPy - Multidimensional Array Object](https://numpy.org/doc/stable/)
+- 🔗 [OpenCV - Computer Vision Algorithms](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
+- 🔗 [Webbrowser - Convenient web-browser controller](https://docs.python.org/3/library/webbrowser.html)
 
 ## Autor ⌨️
 
