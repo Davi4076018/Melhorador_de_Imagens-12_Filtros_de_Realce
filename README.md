@@ -44,7 +44,13 @@
   <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro-Boost/main/readme-images/Interface%20com%20a%20Imagem%20Editada.PNG" />
 </p>
 
+## Módulos e Packages Utilizados 💡
 
+- 🔗 [Tkinter - Python Interface](https://docs.python.org/3/library/tkinter.html)
+- 🔗 [Pillow - Python Imaging Library](https://pillow.readthedocs.io/en/stable/)
+- 🔗 [NumPy - Multidimensional Array Object](https://numpy.org/doc/stable/)
+- 🔗 [OpenCV - Computer Vision Algorithms](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
+- 🔗 [Webbrowser - Convenient web-browser controller](https://docs.python.org/3/library/webbrowser.html)
 
 ## Autor ⌨️
 
