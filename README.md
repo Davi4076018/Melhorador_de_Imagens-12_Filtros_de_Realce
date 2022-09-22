@@ -21,37 +21,55 @@
 ## GIFs das interações ⚙ <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro-Boost/main/readme-images/Interface%20Inicial.PNG" />
+  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro_Boost_e_Outros/main/readme-images/gif%20da%20interacao.gif" width = "750px" />
 </p>
 
 
 ##
 
-## Interface 🖥️<br>
+# Filtros 🔍<br>
 
-### <p align="center"> Interface Inicial</p>
+## <p align="center"> Filtro Boost</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro-Boost/main/readme-images/Interface%20Inicial.PNG" />
+  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro_Boost_e_Outros/main/readme-images/quero%20boost%20inter.PNG" />
 </p>
 
 
 ##
 
-### <p align="center"> Interface com a Imagem Selecionada </p>
+## <p align="center"> Filtro Gaussiano </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro-Boost/main/readme-images/Interface%20com%20a%20Imagem%20Selecionada.PNG" />
+  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro_Boost_e_Outros/main/readme-images/quero%20gaussiano%20inter.PNG" />
+</p>
+
+##
+
+## <p align="center"> Filtro Laplaciano </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro_Boost_e_Outros/main/readme-images/quero%20laplaciano%20inter.PNG" />
+</p>
+
+##
+
+## <p align="center"> Filtro Ridge </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro_Boost_e_Outros/main/readme-images/quero%20ridge%20inter.PNG" />
+</p>
+
+##
+
+## <p align="center"> Filtro Gradiente </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro_Boost_e_Outros/main/readme-images/quero%20gradiente%20inter.PNG" />
 </p>
 
 
 ##
-
-### <p align="center"> Interface com a Imagem Editada </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro-Boost/main/readme-images/Interface%20com%20a%20Imagem%20Editada.PNG" />
-</p>
 
 ## Módulos e Packages Utilizados 💡
 
