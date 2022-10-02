@@ -199,6 +199,8 @@ style.theme_create('Meutema', settings={
 })
 
 style.theme_use('Meutema')
+
+#estilização da fonte dos tabs
 style.configure('TNotebook.Tab', font=('URW Gothic L','11','bold'), padding=[10, 2], foreground = "#61FEC9")
 
 #icons
