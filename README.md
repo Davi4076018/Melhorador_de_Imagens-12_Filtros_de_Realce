@@ -1,5 +1,5 @@
-# Melhorador de Imagens - Filtro-Boost 🚀 
-<p align="justify"> O software usa filtragem espacial para realçar as imagens. O uso da convolução nos valores dos pixels da imagem pelo Kernel Laplaciano Boost, leva ao melhoramento da imagem pela intensidade do cálculo. A interface permite escolher o valor do filtro e observar em tempo real o realce da imagem, para assim exportar nos formatos JPG e PNG o resultado desejado. </p>
+# Melhorador de Imagens - Filtro Boost e Outros 🚀 
+<p align="justify"> O software usa filtragem espacial para realçar as imagens. O uso da convolução nos valores dos pixels da imagem pelo Kernel Laplaciano Boost, leva ao melhoramento da imagem pela intensidade do cálculo. A interface permite escolher o valor do filtro e observar em tempo real o realce da imagem, para assim exportar nos formatos JPG e PNG o resultado desejado. Na segunda parte do software, está disponível como extra os filtros: Gaussiano, Laplaciano, Ridge e Gradiente.</p>
 
 <br />
 <p align="center">
@@ -10,39 +10,66 @@
 </p>
 <br />
 
-## Comparativo - Imagem Original e Imagem Editada 🖼️
+## Comparativo - Imagem Original e Imagem com Boost 🖼️
 
 <p align="center" >
-  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro-Boost/main/readme-images/Comparando%20Imagens%20-%20Laika.png" />
+  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro_Boost/main/readme-images/Comparando%20Imagens%20-%20Quero%20Quero.png" />
 </p>
 
 ##
 
-## Interface 🖥️<br>
-
-### <p align="center"> Interface Inicial</p>
+## GIF das interações ⚙ <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro-Boost/main/readme-images/Interface%20Inicial.PNG" />
-</p>
-
-
-##
-
-### <p align="center"> Interface com a Imagem Selecionada </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro-Boost/main/readme-images/Interface%20com%20a%20Imagem%20Selecionada.PNG" />
+  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro_Boost_e_Outros/main/readme-images/gif%20da%20interacao.gif" width = "750px" />
 </p>
 
 
 ##
 
-### <p align="center"> Interface com a Imagem Editada </p>
+# Filtros 🔍<br>
+
+## <p align="center"> Filtro Boost</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro-Boost/main/readme-images/Interface%20com%20a%20Imagem%20Editada.PNG" />
+  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro_Boost_e_Outros/main/readme-images/quero%20boost%20inter.PNG" />
 </p>
+
+
+##
+
+## <p align="center"> Filtro Gaussiano </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro_Boost_e_Outros/main/readme-images/quero%20gaussiano%20inter.PNG" />
+</p>
+
+##
+
+## <p align="center"> Filtro Laplaciano </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro_Boost_e_Outros/main/readme-images/quero%20laplaciano%20inter.PNG" />
+</p>
+
+##
+
+## <p align="center"> Filtro Ridge </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro_Boost_e_Outros/main/readme-images/quero%20ridge%20inter.PNG" />
+</p>
+
+##
+
+## <p align="center"> Filtro Gradiente </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro_Boost_e_Outros/main/readme-images/quero%20gradiente%20inter.PNG" />
+</p>
+
+
+##
 
 ## Módulos e Packages Utilizados 💡
 

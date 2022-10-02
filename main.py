@@ -399,10 +399,5 @@ filtGradiente_buttonTab2.grid(row = 3, column=2, sticky = 'nw', pady=58)
 save_buttonTab2.grid(row = 3, column=2, sticky ='sw', pady=80)
 git_buttonTab2.grid(row = 3, column=2, sticky ='sw')
 
-
-#filtCrista_buttonTab2.grid(row = 2, column=2, sticky ='nw', pady=23)
-#filtGaussiano_buttonTab2.grid(row = 2, column=2, sticky = 'sw')
-#filtLaplaciano_buttonTab2.grid(row = 3, column=2, sticky = 'nw')
-
 #looping da janela
 sist.mainloop()
