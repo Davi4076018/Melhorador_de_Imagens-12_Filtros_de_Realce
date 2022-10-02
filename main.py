@@ -176,29 +176,30 @@ style = ttk.Style()
 style.theme_create('Meutema', settings={
     ".": {
         "configure": {
-            "background": "#4d194d",  # cor dentro dos tabs
+            "background": "#15141B",  # cor dentro dos tabs
         }
     },
     "TNotebook": {
         "configure": {
-            "background": "#391339",  # Cor da margem
+            "background": "#0d1117",  # Cor da margem
             "tabmargins": [0, 0, 0, 0],  # margins: left, top, right, separator
         }
     },
     "TNotebook.Tab": {
         "configure": {
-            "background": 'White',  # Cor do tab não selecionado
+            "background": '#22212c',  # Cor do tab não selecionado
             "padding": [5, 1],
             # espaço do texto as extremidades do tab
         },
         "map": {
-            "background": [("selected", "#711f71")],  # Cor do tab selecionado
+            "background": [("selected", "#15141B")],  # Cor do tab selecionado
             "expand": [("selected", [2, 0, 2, 2])]  # Margens do texto
         }
     }
 })
 
 style.theme_use('Meutema')
+style.configure('TNotebook.Tab', font=('URW Gothic L','11','bold'), padding=[10, 2], foreground = "#61FEC9")
 
 #icons
 iconimage = PhotoImage(file=r"icons/image.png").subsample(1, 1)
@@ -220,10 +221,10 @@ tkimage = ImageTk.PhotoImage(img)
 
 open_buttonTab1 = Button(
     tab1,
-    bg="#4d194d",
+    bg="#15141B",
     command=select_file,
     image= iconimage,
-    highlightbackground = "black",
+    highlightbackground="#A177FE",
     bd=2,
     width = 75,
     height = 75,
@@ -231,10 +232,10 @@ open_buttonTab1 = Button(
 
 save_buttonTab1 = Button(
     tab1,
-    bg="#4d194d",
+    bg="#15141B",
     command=saveImage,
     image= iconsave,
-    highlightbackground = "white",
+    highlightbackground = "#A177FE",
     bd=2,
     width = 75,
     height = 75,
@@ -242,10 +243,10 @@ save_buttonTab1 = Button(
 
 git_buttonTab1 = Button(
     tab1,
-    bg="#4d194d",
+    bg="#15141B",
     command=opengit,
     image= icongit,
-    highlightbackground = "white",
+    highlightbackground = "#A177FE",
     bd=2,
     width = 75,
     height = 75,
@@ -253,9 +254,10 @@ git_buttonTab1 = Button(
 
 ImagePlaceBoost = Label(tab1,
                         image=tkimage,
+                        highlightbackground = "#A177FE",
                         text = (" "),
                         bg = "Black",
-                        fg = "White",
+                        fg = "#A177FE",
                         bd = 2,
                         relief = "solid",
                         width = 866,
@@ -264,26 +266,16 @@ ImagePlaceBoost = Label(tab1,
                         wraplength=250)
 
 ValueBoost = Scale(tab1,
-                   bg="#4d194d",
+                   highlightbackground = "#A177FE",
+                   bg="#15141B",
                    from_=1,
                    to=10,
-                   fg="white",
+                   fg="#A177FE",
                    command=boostImage,
-                   font = "Crimson",
+                   font=('Crimson','12','bold'),
                    width = 75,
                    length = 297,
                    tickinterval = 1)
-
-open_buttonTab1 = Button(
-    tab1,
-    bg="#4d194d",
-    command=select_file,
-    image= iconimage,
-    highlightbackground = "black",
-    bd=2,
-    width = 75,
-    height = 75,
-    wraplength=250)
 
 # Segundo Tab
 
@@ -291,7 +283,7 @@ ImagePlaceOutros = Label(tab2,
                         image=tkimage,
                         text = (" "),
                         bg = "Black",
-                        fg = "White",
+                        fg = "#A177FE",
                         bd = 2,
                         relief = "solid",
                         width = 866,
@@ -303,7 +295,7 @@ ImagePlaceOutros = Label(tab2,
 
 open_buttonTab2 = Button(
     tab2,
-    bg="#4d194d",
+    bg="#15141B",
     command=select_file,
     image= iconimage,
     highlightbackground = "black",
@@ -314,10 +306,10 @@ open_buttonTab2 = Button(
 
 save_buttonTab2 = Button(
     tab2,
-    bg="#4d194d",
+    bg="#15141B",
     command=saveImage,
     image= iconsave,
-    highlightbackground = "white",
+    highlightbackground = "#A177FE",
     bd=2,
     width = 75,
     height = 75,
@@ -325,10 +317,10 @@ save_buttonTab2 = Button(
 
 git_buttonTab2 = Button(
     tab2,
-    bg="#4d194d",
+    bg="#15141B",
     command=opengit,
     image= icongit,
-    highlightbackground = "white",
+    highlightbackground = "#A177FE",
     bd=2,
     width = 75,
     height = 75,
@@ -336,10 +328,10 @@ git_buttonTab2 = Button(
 
 original_buttonTab2 = Button(
     tab2,
-    bg="#4d194d",
+    bg="#15141B",
     command=lambda: outrosFiltros(1),
     image=iconOriginal,
-    highlightbackground="white",
+    highlightbackground="#A177FE",
     bd=2,
     width=75,
     height=55,
@@ -347,10 +339,10 @@ original_buttonTab2 = Button(
 
 filtGaussiano_buttonTab2 = Button(
     tab2,
-    bg="#4d194d",
+    bg="#15141B",
     command=lambda: outrosFiltros(2),
     image=iconGaussiano,
-    highlightbackground="white",
+    highlightbackground="#A177FE",
     bd=2,
     width=75,
     height=56,
@@ -358,10 +350,10 @@ filtGaussiano_buttonTab2 = Button(
 
 filtLaplaciano_buttonTab2 = Button(
     tab2,
-    bg="#4d194d",
+    bg="#15141B",
     command=lambda: outrosFiltros(3),
     image=iconLaplaciano,
-    highlightbackground="white",
+    highlightbackground="#A177FE",
     bd=2,
     width=75,
     height=55,
@@ -369,10 +361,10 @@ filtLaplaciano_buttonTab2 = Button(
 
 filtCrista_buttonTab2 = Button(
     tab2,
-    bg="#4d194d",
+    bg="#15141B",
     command=lambda: outrosFiltros(4),
     image=iconCrista,
-    highlightbackground="white",
+    highlightbackground="#A177FE",
     bd=2,
     width=75,
     height=53,
@@ -380,10 +372,10 @@ filtCrista_buttonTab2 = Button(
 
 filtGradiente_buttonTab2 = Button(
     tab2,
-    bg="#4d194d",
+    bg="#15141B",
     command=lambda: outrosFiltros(5),
     image=iconGradiente,
-    highlightbackground="white",
+    highlightbackground="#A177FE",
     bd=2,
     width=75,
     height=55,
