@@ -20,8 +20,9 @@
 
 ## GIF das interações ⚙ <br>
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro_Boost_e_Outros/main/readme-images/gif%20da%20interacao.gif" width = "750px" />
+  EM BREVE
 </p>
 
 
