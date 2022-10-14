@@ -2,9 +2,11 @@
 <p align="justify"> O software usa filtragem espacial para realçar as imagens. O uso da convolução nos valores dos pixels da imagem pelo Kernel Laplaciano Boost, leva ao melhoramento da imagem pela intensidade do cálculo. A interface permite escolher o valor do filtro e observar em tempo real o realce da imagem, para assim exportar nos formatos JPG e PNG o resultado desejado. Na segunda parte do software, está disponível como extra os filtros: Gaussiano, Laplaciano, Ridge e Gradiente.</p>
 
 <br />
-<p align="center">
+ <p align="center">
+<a href="https://github.com/Davi4076018/Melhorador_de_Imagens-Filtro_Boost_e_Outros/raw/main/dist/Melhorador%20de%20Imagens%20-%20Filtro%20Boost%20e%20Outros.rar" >
   <img src="https://raw.githubusercontent.com/Davi4076018/Melhorador_de_Imagens-Filtro-Boost/main/readme-images/Icon%20download.png" width = "100px"/>
   <br />
+</a>
   <a href="https://github.com/Davi4076018/Melhorador_de_Imagens-Filtro_Boost_e_Outros/raw/main/dist/Melhorador%20de%20Imagens%20-%20Filtro%20Boost%20e%20Outros.rar">Donwload .Exe</a>
   <br />
 </p>
@@ -22,7 +24,7 @@
 
 
 <p align="center">
-  EM BREVE
+  <img src="https://github.com/Davi4076018/Melhorador_de_Imagens-Filtro_Boost_e_Outros/blob/main/readme-images/gif%20readme.gif?raw=true" width = "1000px"/>
 </p>
 
 
